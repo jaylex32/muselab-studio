@@ -139,6 +139,15 @@ Specific reports get fixed. "It doesn't work" cannot be.
 
 ---
 
+## Support the project
+
+MuseLab Studio is free and stays free — no paid tier, nothing held back.
+
+If it saves you time, you can [buy me a coffee](https://buymeacoffee.com/jayross). Completely
+optional, and nothing in the app changes either way. A good bug report is worth just as much.
+
+---
+
 ## Licence
 
 Free to use. The source is not published at this time.
