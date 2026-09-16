@@ -1,0 +1,71 @@
+MuseLab Studio — End User Licence Agreement
+Copyright (c) 2026 jaylex32. All rights reserved.
+
+By installing or using MuseLab Studio ("the Software") you agree to this Agreement. If you do not
+agree, do not install or use the Software.
+
+
+1. LICENCE GRANTED
+
+You are granted a free, non-exclusive, worldwide licence to install and use the Software on any
+number of computers you own or control, for any purpose, personal or commercial.
+
+Music, audio, MIDI and project files you create with the Software are entirely yours. No rights to
+your work are claimed, no royalty is owed, and no credit is required.
+
+
+2. WHAT YOU MAY NOT DO
+
+You may not:
+
+  a) sell, rent, lease, sublicense or otherwise charge for the Software itself;
+  b) redistribute the Software, in whole or in part, including re-uploading the installer or
+     bundling it inside another product, without written permission. Link to the official release
+     page instead;
+  c) reverse engineer, decompile or disassemble the Software, or attempt to derive its source code,
+     except to the extent this restriction is prohibited by applicable law;
+  d) remove or alter any copyright, trademark or attribution notice;
+  e) extract the bundled models, samples, presets or other assets for use outside the Software.
+
+The Software is closed source. Nothing here grants any right to its source code.
+
+
+3. BUNDLED THIRD-PARTY COMPONENTS
+
+The Software contains components from third parties, each under its own terms, including audio
+frameworks, plugin-hosting SDKs, machine-learning runtimes, and pre-trained models. Those terms
+govern those components and nothing in this Agreement overrides them.
+
+Some AI features download additional model files on first use. Those files are supplied by their
+respective authors under their own licences.
+
+
+4. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NON-INFRINGEMENT.
+
+This is a first public release. It may contain defects. Keep independent backups of any work that
+matters to you, as you would with any audio software.
+
+
+5. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+ITS USE, INCLUDING WITHOUT LIMITATION ANY LOSS OF DATA, LOSS OF RECORDINGS, OR LOSS OF PROFITS.
+
+
+6. TERM
+
+This licence continues until terminated. It terminates automatically if you breach it. On
+termination you must stop using the Software and remove it from your computers. Sections 4 and 5
+survive termination.
+
+
+7. TRADEMARKS
+
+MuseLab Studio is not affiliated with, endorsed by, or sponsored by Steinberg Media Technologies
+GmbH. VST is a trademark of Steinberg Media Technologies GmbH. ASIO is a trademark and software of
+Steinberg Media Technologies GmbH. All other trademarks belong to their respective owners.

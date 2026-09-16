@@ -1,0 +1,4 @@
+# This repository distributes MuseLab Studio. It contains NO source code, by design.
+*.exe
+*.bin
+*.zip
