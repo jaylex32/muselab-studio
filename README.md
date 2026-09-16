@@ -11,13 +11,27 @@ composition in one application.
 
 ## Download
 
-**[Download MuseLab Studio for Windows](https://github.com/jaylex32/muselab-studio/releases/latest)**
+**[Get the latest release](https://github.com/jaylex32/muselab-studio/releases/latest)**
 
-Windows 10 or 11, 64-bit. The installer is around 2.8 GB because the AI models ship with it — there
-is nothing to download afterwards and nothing to sign up for.
+Windows 10 or 11, 64-bit.
 
-> On first launch Windows may show a SmartScreen warning because the installer is not code-signed
-> yet. Click **More info → Run anyway**.
+The installer comes as **four files**, because the AI models ship inside it and GitHub will not
+host a single file that large:
+
+| File | Size |
+|---|---|
+| `MuseLabStudio-0.1.0.0-Setup.exe` | 3 MB |
+| `MuseLabStudio-0.1.0.0-Setup-1.bin` | 1.4 GB |
+| `MuseLabStudio-0.1.0.0-Setup-2.bin` | 1.4 GB |
+| `MuseLabStudio-0.1.0.0-Setup-3.bin` | 45 MB |
+
+**Download all four into the same folder, then run `Setup.exe`.** It finds the rest on its own —
+there is nothing to unzip or join.
+
+Everything is included. Once installed there is nothing further to download and no account to make.
+
+> On first launch Windows may show a SmartScreen warning, because the installer is not
+> code-signed yet. Click **More info → Run anyway**.
 
 ---
 
