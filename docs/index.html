@@ -55,6 +55,13 @@ a:hover{text-decoration:underline}
 .btn:hover{text-decoration:none}
 .btn-primary{background:var(--grad);color:#04121f}
 .btn-primary:hover{filter:brightness(1.1)}
+/* The nav button is 14px. Dark-on-bright reads at hero size and turns to mush this small, so the
+   small variant flips to white on a deeper blue, which clears the contrast threshold. */
+.nav-links .btn-primary{
+  background:linear-gradient(135deg,#0f6fd8 0%,#0b93c8 100%);
+  color:#fff;font-weight:600;
+}
+.nav-links .btn-primary svg{stroke:#fff}
 .btn-ghost{border-color:var(--line);color:var(--text);background:var(--card)}
 .btn-ghost:hover{border-color:#2f3947;background:#171a21}
 .btn-sm{padding:9px 17px;font-size:14px;border-radius:8px}
