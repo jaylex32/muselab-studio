@@ -1,19 +1,19 @@
 # MuseLab Studio
 
-### [muselab-studio official site →](https://jaylex32.github.io/muselab-studio/)
+### [Official site →](https://muselabstudio.github.io/)
 
 A complete music production studio for Windows — arrangement, mixing, plugins, and AI-assisted
 composition in one application.
 
 **Free to use.** No account, no subscription, no cloud. Everything runs on your machine.
 
-![MuseLab Studio](docs/assets/01-arrangement.png)
+![MuseLab Studio](https://muselabstudio.github.io/assets/01-arrangement.png)
 
 ---
 
 ## Download
 
-**[Get the latest release](https://github.com/jaylex32/muselab-studio/releases/latest)**
+**[Get the latest release](https://github.com/muselabstudio/muselab-studio/releases/latest)**
 
 Windows 10 or 11, 64-bit.
 
@@ -45,18 +45,18 @@ grouped into folders, and every folder gets its own fader so you can ride a whol
 touching the balance inside it.
 
 ### Mixing
-![Mixer](docs/assets/02-mixer.png)
+![Mixer](https://muselabstudio.github.io/assets/02-mixer.png)
 
 Per-channel inserts, sends, buses, pan and automation, with a master chain. Group buses are real
 signal routing, not a macro over other faders.
 
 ### Piano roll
-![Piano roll](docs/assets/03-piano-roll.png)
+![Piano roll](https://muselabstudio.github.io/assets/03-piano-roll.png)
 
 Draw, edit, quantise, and transpose. Velocity editing underneath, scale locking, and chord tools.
 
 ### Drums
-![Drum sequencer](docs/assets/04-drums.png)
+![Drum sequencer](https://muselabstudio.github.io/assets/04-drums.png)
 
 Step sequencer with per-step velocity, rolls, nudge, probability, and conditional triggers. Swap the
 kit or any individual sample.
